@@ -1,0 +1,14 @@
+<script>
+let myWatchedSeries = ["black mirror", "money heist", "the big bang theory"];
+
+let myWatchedSeriesLength = myWatchedSeries.length;
+
+let myWatchedSeriesSentence = myWatchedSeries.toString();
+
+console.log(myWatchedSeriesSentence);
+ black mirror,money heist,the big bang theory
+
+console.log("I watched" + myWatchedSeriesLength + "series :"+ " "+myWatchedSeriesSentence);
+
+I watched3series : black mirror,money heist,the big bang theory
+</script>

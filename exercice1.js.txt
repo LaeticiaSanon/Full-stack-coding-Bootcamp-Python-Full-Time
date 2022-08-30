@@ -1,0 +1,6 @@
+<script>
+    let myFavoriteEat ="spaghetti";
+    let myFavoriteMeal="Dinner";
+    console.log("I eat"+ " "+ myFavoriteEat +" "+ "Dinner")
+
+</script>
